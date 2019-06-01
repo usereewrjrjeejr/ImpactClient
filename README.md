@@ -49,11 +49,8 @@ New features should also be reported as [issues]. Please try to describe the fea
 * xpielordx        
 * [SuperOP535]
 * Olibols (Feathers)
-<!--
 * Scæling
-* QueefHacker
-lmao
--->
+* SpicyBigDaddy
 
 
 <!--info not bothered to add (for peanut only)
